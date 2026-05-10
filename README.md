@@ -2,7 +2,9 @@
 Learning kubernetes
 
 Pod- pod is smallest unit in kubernetes which is collection of one or more containers
+
 Kubernetes Architecture:
+
 In kubernetes we have 2 planes:
 1. control plane[master node]
 2. data plane[worker node]
